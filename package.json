@@ -1,23 +1,23 @@
 {
   "name": "grunt-mocha-phantomjs",
   "description": "Run client-side mocha tests using phantomjs",
-  "version": "0.6.1",
-  "homepage": "https://github.com/jdcataldo/grunt-mocha-phantomjs",
+  "version": "0.7.1",
+  "homepage": "https://github.com/gethinwebster/grunt-mocha-phantomjs",
   "author": {
     "name": "Justin Cataldo",
     "email": "jdcataldo@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jdcataldo/grunt-mocha-phantomjs.git"
+    "url": "git://github.com/gethinwebster/grunt-mocha-phantomjs.git"
   },
   "bugs": {
-    "url": "https://github.com/jdcataldo/grunt-mocha-phantomjs/issues"
+    "url": "https://github.com/gethinwebster/grunt-mocha-phantomjs/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/jdcataldo/grunt-mocha-phantomjs/blob/master/LICENSE-MIT"
+      "url": "https://github.com/gethinwebster/grunt-mocha-phantomjs/blob/master/LICENSE-MIT"
     }
   ],
   "scripts": {

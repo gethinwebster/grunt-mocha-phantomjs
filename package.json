@@ -28,7 +28,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "mocha-phantomjs": "~3.5.0",
+    "mocha-phantomjs": "gethinwebster/mocha-phantomjs",
     "phantomjs2": "~2.0.0",
     "lodash": "2.4.1",
     "async": "~0.2"
